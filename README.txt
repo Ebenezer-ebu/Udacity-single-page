@@ -5,4 +5,4 @@ website endpoint
 http://my-499521774202-bucket.s3-website-us-east-1.amazonaws.com
 
 S3 object url
-http://my-499521774202-bucket.s3.amazonaws.com/html
+http://my-499521774202-bucket.s3.amazonaws.com/index.html
